@@ -1,0 +1,5 @@
+{:project-id "hive-html"
+ :parent "hive"
+ :description "HTML page to text, headings, links and metadata. JDK-only parser behind injectable ports; no ingestion vocabulary."
+ :language :clojure
+ :tags ["html" "parser" "text-extraction" "foss"] :carto {:source-roots ["resources" "src" "test"]}}
