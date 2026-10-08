@@ -1,7 +1,7 @@
 {:paths ["src" "resources"]
  :deps {org.clojure/clojure {:mvn/version "1.12.6"}
         ;; hive-dsl — the Result the parser port returns.
-        io.github.hive-agi/hive-dsl {:mvn/version "0.5.34"}}
+        io.github.hive-agi/hive-dsl {:mvn/version "0.5.36"}}
 
  :aliases
  {:test {:extra-paths ["test"]
